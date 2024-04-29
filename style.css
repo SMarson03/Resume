@@ -1,0 +1,56 @@
+.container{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(236, 169, 236);
+    
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: indigo;
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: indigo;
+}
+.pic{
+    border-radius: 10px;
+    box-shadow: black 0px 0px 1px 2px;
+}
+
+h1{
+font-family: serif;
+color: rgb(236, 169, 236);
+
+}
+
+
+.box1 {
+   
+    font-family: serif; 
+    border-radius: 10px;
+    padding: 3% 0% 100% 0%;
+    width: 400px;
+    background: linear-gradient(to top, #cc33ff 77%, #660066 96%);
+    text-align: center;
+    box-shadow:black 0px 0px 1px 2px;
+}
+
+.box2{
+   
+    font-family: serif;
+    text-align: center;
+    box-shadow: rgb(236, 169, 236);0px 0px 1px 2px; 
+    border-radius: 10px;
+    padding: 0% 0% 100% 0%;
+    width: 1000px;
+    background:linear-gradient(to top, #cc33ff 77%, #660066 96%);
+    text-align: center;
+    box-shadow:black 0px 0px 1px 2px;
+}
+
+
+
